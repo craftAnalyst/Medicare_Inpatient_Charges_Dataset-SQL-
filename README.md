@@ -1,8 +1,7 @@
 # Medicare_Inpatient_Charges_Dataset--SQL-
 This data analysis project involves accessing, writing and querying the Medicare Inpatient Charges Dataset in Google BigQuery public, using SQL to analyze the inpatient data from 2011 to 2014. The goal is to gain more insights into the dataset through the years.  
 bigquery-public-data.medicare.inpatient_charges  
-## Query  
-<a href="https://github.com/craftAnalyst/Medicare_Inpatient_Charges_Dataset-SQL-/blob/main/sql%20code.sql">Suicide Rate Data</a>
+
 ## problem question:   
 Answer the following questions on the public data medicare Inpatient charges data set  
 🔹How many providers offered services in the year 2011?  
@@ -18,6 +17,7 @@ Answer the following questions on the public data medicare Inpatient charges dat
 🔹List of providers that offered services in 2011 but not in 2012  
 🔹Total discharges for each provider accross the 4 years.  
 🔹Merge the 2011 and 2012 tables.  
-
+## Query   
+<a href="https://github.com/craftAnalyst/Medicare_Inpatient_Charges_Dataset-SQL-/blob/main/sql%20code.sql">Suicide Rate Data</a>
 
 
